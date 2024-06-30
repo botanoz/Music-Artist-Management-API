@@ -1,0 +1,15 @@
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\bin\Debug\net8.0\Music.Core.deps.json
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\bin\Debug\net8.0\Music.Core.runtimeconfig.json
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\bin\Debug\net8.0\Music.Core.dll
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\bin\Debug\net8.0\Music.Core.pdb
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.csproj.AssemblyReference.cache
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.AssemblyInfoInputs.cache
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.AssemblyInfo.cs
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.csproj.CoreCompileInputs.cache
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.sourcelink.json
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.dll
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\refint\Music.Core.dll
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.pdb
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\Music.Core.genruntimeconfig.cache
+C:\Users\botan\OneDrive\Masaüstü\course\NtierRepositorySampleProject\Music.Core\obj\Debug\net8.0\ref\Music.Core.dll
