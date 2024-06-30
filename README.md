@@ -13,7 +13,7 @@ The Music Artist Management API allows adding, retrieving, updating, and deletin
 
 ## Getting Started
 1. Clone the repository:
-   git clone https://github.com/YourUsername/MusicArtistManagementAPI.git
+   git clone https://github.com/botanoz/MusicArtistManagementAPI.git
 
 2. Navigate to the project directory:
    cd MusicArtistManagementAPI
@@ -63,7 +63,7 @@ Music Artist Management API, müzik sanatçılarını ve parçalarını eklemeyi
 
 ## Başlarken
 1. Depoyu klonlayın:
-   git clone https://github.com/YourUsername/MusicArtistManagementAPI.git
+   git clone https://github.com/botanoz/MusicArtistManagementAPI.git
 
 2. Proje dizinine gidin:
    cd MusicArtistManagementAPI
